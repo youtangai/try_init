@@ -59,3 +59,6 @@ c init hello
 main init hello
 main main hello
 ```
+
+# 今後
+sleepによる遅延ではなく，ネットワーク接続やデータベース接続による遅延を挿入し，検証する予定である．
